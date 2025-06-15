@@ -1,30 +1,32 @@
 # Ariba Shafaqat
 
-Computer Science Student | Artificial Intelligence & Web Development Enthusiast | Developer
+**Computer Science Undergraduate | UET'CS'26**  
+University of Engineering and Technology (UET), Lahore
 
 ---
 
-## About Me
+## Profile Summary
 
-- Currently studying Artificial Intelligence, Web Technologies, Software Engineering, Computer Networks, and Professional Practice.
-- Working on multiple semester projects including:
-  - AI-Based Plant Advisor  
-  - Trip Fusion – Transport Management System  
-- Tech Stack: Python, Node.js, MySQL, HTML, CSS, JavaScript
-- Based in Lahore, Pakistan
+Computer Science undergraduate at UET Lahore with a strong interest in artificial intelligence, cloud computing, and full-stack development. Skilled in developing intelligent systems with real-world applications. Currently enrolled in a cloud computing course under the HCCDA Tech Essential Trainee program.
+
+
+## Professional Development
+
+- **HCCDA Tech Essential Trainee**  
+  Currently enrolled in a foundational cloud computing course focused on core concepts, deployment models, and practical understanding.
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
-![Ariba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aribashafaqat&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aribashafaqat&show_icons=true&theme=default)
 
 ---
 
 ## Contact
 
-- Email: aribashafaqat4@gmail.com
-- LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/ariba-shafaqat/) *(replace with your actual link)*
+- **Email:** aribashafaqat4@gmail.com  
+- **LinkedIn:** [linkedin.com/in/ariba-shafaqat](https://linkedin.com/in/ariba-shafaqat/)
 
 ---
 
