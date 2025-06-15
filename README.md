@@ -17,11 +17,7 @@ Computer Science undergraduate at UET Lahore with a strong interest in artificia
 
 ---
 
-## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aribashafaqat&show_icons=true&theme=default)
-
----
 
 ## Contact
 
