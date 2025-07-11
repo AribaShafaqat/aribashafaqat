@@ -7,7 +7,7 @@ University of Engineering and Technology (UET), Lahore
 
 ## Profile Summary
 
-Computer Science undergraduate at UET Lahore with a strong interest in artificial intelligence, cloud computing, and full-stack development. Skilled in developing intelligent systems with real-world applications. Currently enrolled in a cloud computing course under the HCCDA Tech Essential Trainee program.
+Computer Science undergraduate at UET Lahore with a strong interest in artificial intelligence, cloud computing, and full-stack development. Skilled in developing intelligent systems with real-world applications. 
 
 
 ## Professional Development
