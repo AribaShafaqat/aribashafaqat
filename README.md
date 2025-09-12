@@ -7,7 +7,7 @@ University of Engineering and Technology (UET), Lahore
 
 ## Profile Summary
 
-Computer Science undergraduate at UET Lahore with a strong interest in artificial intelligence, cloud computing, and full-stack development. Skilled in developing intelligent systems with real-world applications. 
+Passionate about artificial intelligence, cloud computing, and full-stack development. Skilled in developing intelligent systems and creating real-world applications that deliver practical impact. 
 
 
 ## Professional Development
