@@ -1,7 +1,7 @@
 # Ariba Shafaqat
 
-**Computer Science Undergraduate | UET'CS'26**  
-University of Engineering and Technology (UET), Lahore
+**UET'CS'26**  
+
 
 ---
 
