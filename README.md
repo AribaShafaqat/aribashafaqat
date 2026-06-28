@@ -24,6 +24,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aribashafaqat&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aribashafaqat&theme=tokyonight&hide_border=true"/>
-</p>
+
