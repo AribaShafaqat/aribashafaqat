@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ariba 👋</h1>
+<h1 align="center">Hi, I'm Ariba Shafaqat</h1>
 
 <p align="center">
   🎓 BS Computer Science · University of Engineering & Technology, Lahore · 2022–2026
